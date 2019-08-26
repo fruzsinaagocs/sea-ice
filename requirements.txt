@@ -3,6 +3,7 @@ scipy
 pandas
 xarray
 tensorflow
+cython
 cartopy==0.16.0
 matplotlib
 gpflow
