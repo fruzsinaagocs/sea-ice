@@ -5,3 +5,5 @@ xarray
 tensorflow
 cartopy
 matplotlib
+gpflow
+jupyter
