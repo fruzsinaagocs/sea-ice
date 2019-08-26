@@ -15,4 +15,5 @@ python 3. and the following pip installable packages:
 - xarray
 - tensorflow
 - gpflow
-- (cartopy)
+- (cartopy) for visualisation purposes only
+- netcdf4

@@ -5,3 +5,5 @@ xarray
 tensorflow
 matplotlib
 gpflow
+netcdf4
+datetime
