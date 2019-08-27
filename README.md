@@ -17,3 +17,4 @@ python 3. and the following pip installable packages:
 - gpflow
 - (cartopy) for visualisation purposes only
 - netcdf4
+- sklearn (for preprocessing)
