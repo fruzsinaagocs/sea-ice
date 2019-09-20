@@ -5,10 +5,9 @@ dependencies:
     - numpy 
     - tensorflow
     - gpflow
-    - sklearn
+    - scikit-learn
     - netcdf4
     - pandas
     - xarray
-    - datetime
     - matplotlib
     - cartopy
