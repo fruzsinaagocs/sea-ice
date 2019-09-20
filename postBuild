@@ -1,0 +1,4 @@
+wget -q ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10010/G10010_SIBT1850_v1.1.zip
+apt-get install unzip
+unzip G10010_SIBT1850_v1.1.zip -d sea_ice_data/
+
