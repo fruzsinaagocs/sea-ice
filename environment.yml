@@ -1,0 +1,14 @@
+name: sea-ice-env
+channels:
+    - conda-forge
+dependencies:
+    - numpy 
+    - tensorflow
+    - gpflow
+    - sklearn
+    - netcdf4
+    - pandas
+    - xarray
+    - datetime
+    - matplotlib
+    - cartopy
