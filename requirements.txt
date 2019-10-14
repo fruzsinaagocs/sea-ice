@@ -1,1 +1,9 @@
+tensorflow==1.14
+gpflow
+pandas
 datetime
+xarray
+matplotlib
+netcdf4
+sklearn
+
