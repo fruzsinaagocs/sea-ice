@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fruzsinaagocs/sea-ice/master?filepath=https%3A%2F%2Fgithub.com%2Ffruzsinaagocs%2Fsea-ice%2Fblob%2Fmaster%2Fsea-ice-prediction-gpflow.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fruzsinaagocs/sea-ice/master?filepath=sea-ice-practical.ipynb)
 
 # sea-ice
 Notes, code for predicting sea ice over the Arctic
