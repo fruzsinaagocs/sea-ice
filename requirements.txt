@@ -3,7 +3,7 @@ datetime
 xarray
 matplotlib
 netcdf4
-sklearn
+scikit-learn
 tensorflow
 gpflow
 
